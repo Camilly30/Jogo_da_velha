@@ -1,0 +1,15 @@
+{
+  "name": "jogodavelha",
+  "version": "1.0.0",
+  "description": "Jogo da Velha",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve ."
+  },
+  "author": "CAMILLY",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^13.0.4"
+  }
+}
