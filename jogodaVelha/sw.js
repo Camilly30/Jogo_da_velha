@@ -1,5 +1,5 @@
 let cacheName = "Jogo da velha";
-let filesToCache = ["/","/index.html", "/css/css.css","/js/imc.js",];
+let filesToCache = ["/","/index.html", "/css/css.css","/js/js.js",];
 
 self.addEventListener("install",(e) => {
     e.waitUntil(
